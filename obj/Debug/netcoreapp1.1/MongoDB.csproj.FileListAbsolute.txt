@@ -6,3 +6,11 @@ c:\MyFolder\Labs\VSCode\NetCore\MongoDB\bin\Debug\netcoreapp1.1\MongoDB.pdb
 c:\MyFolder\Labs\VSCode\NetCore\MongoDB\obj\Debug\netcoreapp1.1\MongoDB.AssemblyInfo.cs
 c:\MyFolder\Labs\VSCode\NetCore\MongoDB\obj\Debug\netcoreapp1.1\MongoDB.dll
 c:\MyFolder\Labs\VSCode\NetCore\MongoDB\obj\Debug\netcoreapp1.1\MongoDB.pdb
+c:\MyFolder\Labs\VSCode\VSC_MongoDB_Tutorial\bin\Debug\netcoreapp1.1\MongoDB.deps.json
+c:\MyFolder\Labs\VSCode\VSC_MongoDB_Tutorial\bin\Debug\netcoreapp1.1\MongoDB.runtimeconfig.json
+c:\MyFolder\Labs\VSCode\VSC_MongoDB_Tutorial\bin\Debug\netcoreapp1.1\MongoDB.runtimeconfig.dev.json
+c:\MyFolder\Labs\VSCode\VSC_MongoDB_Tutorial\obj\Debug\netcoreapp1.1\MongoDB.AssemblyInfo.cs
+c:\MyFolder\Labs\VSCode\VSC_MongoDB_Tutorial\obj\Debug\netcoreapp1.1\MongoDB.dll
+c:\MyFolder\Labs\VSCode\VSC_MongoDB_Tutorial\obj\Debug\netcoreapp1.1\MongoDB.pdb
+c:\MyFolder\Labs\VSCode\VSC_MongoDB_Tutorial\bin\Debug\netcoreapp1.1\MongoDB.dll
+c:\MyFolder\Labs\VSCode\VSC_MongoDB_Tutorial\bin\Debug\netcoreapp1.1\MongoDB.pdb

@@ -7374,16 +7374,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\MyFolder\\Labs\\VSCode\\NetCore\\MongoDB\\MongoDB.csproj",
+      "projectUniqueName": "c:\\MyFolder\\Labs\\VSCode\\VSC_MongoDB_Tutorial\\MongoDB.csproj",
       "projectName": "MongoDB",
-      "projectPath": "c:\\MyFolder\\Labs\\VSCode\\NetCore\\MongoDB\\MongoDB.csproj",
-      "outputPath": "c:\\MyFolder\\Labs\\VSCode\\NetCore\\MongoDB\\obj\\",
+      "projectPath": "c:\\MyFolder\\Labs\\VSCode\\VSC_MongoDB_Tutorial\\MongoDB.csproj",
+      "outputPath": "c:\\MyFolder\\Labs\\VSCode\\VSC_MongoDB_Tutorial\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/MongoDB.dll": "c:\\MyFolder\\Labs\\VSCode\\NetCore\\MongoDB\\bin\\placeholder\\netcoreapp1.1\\MongoDB.dll"
+        "lib/netcoreapp1.1/MongoDB.dll": "c:\\MyFolder\\Labs\\VSCode\\VSC_MongoDB_Tutorial\\bin\\placeholder\\netcoreapp1.1\\MongoDB.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {

@@ -2,7 +2,10 @@
 Installation: https://docs.mongodb.com/v3.0/tutorial/install-mongodb-on-windows/
 https://www.codementor.io/pmbanugo/working-with-mongodb-in-net-1-basics-g4frivcvz
 https://docs.mongodb.com/ecosystem/drivers/csharp/
+Youtube: https://www.youtube.com/watch?v=W-WihPoEbR4&t=202s 
 
-.NET getting started: http://mongodb.github.io/mongo-csharp-driver/2.0/getting_started/quick_tourpwd
+https://github.com/mongodb/mongo-csharp-driver
+
+.NET getting started: http://mongodb.github.io/mongo-csharp-driver/2.0/getting_started/quick_tour
 
 This is not commited
