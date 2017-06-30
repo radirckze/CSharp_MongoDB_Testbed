@@ -1,6 +1,8 @@
 # VSC MongoDB Tutorial
 My Visual Studio Code MongoDB tutorial and test project. 
+
 View at your own risk!
+
 Note: this is a testbed to test MongoDB stuff in isolation. (WebAPI project is where
 I plan to test a scenario similar to a real-world project.)
 
